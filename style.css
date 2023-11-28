@@ -1,6 +1,11 @@
 p {
     text-align: center;
 }
+
+#musica{
+    width:100%;
+}
+
 strong {
     color: rgb(4, 16, 184);
 }
